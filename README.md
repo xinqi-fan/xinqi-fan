@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a researcher for good. I am currently working on deep learning, computer vision, and multimodal learning for healthcare and affective computing.
+
 <!--
 **xinqi-fan/xinqi-fan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
