@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a researcher. I do research for good things.
+I am Xinqi Fan. I am a researcher at Manchester Metropolitan University. I do research for good things.
 
 I am currently working on deep learning, computer vision, and multimodal learning for healthcare and affective computing.
 
